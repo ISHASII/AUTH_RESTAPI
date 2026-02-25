@@ -171,7 +171,3 @@ Kunjungi `http://localhost:5173` (atau port yang ditampilkan Vite).
    ```
 4. Gunakan Postman atau browser untuk mendaftar/login dan menjelajahi dashboard.
 5. Token disimpan di `localStorage`, digunakan untuk panggilan berikutnya.
-
-Silakan kembangkan lebih lanjut: tambah logout, update profil, upload avatar, dll.
-
----
